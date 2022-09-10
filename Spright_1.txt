@@ -29,6 +29,6 @@
 2,Spright Elf
 1,Formula Synchron
 1,Herald of the Arc Light
-1,Hiita the Fire Charmer, Ablaze
+1,Hiita the Fire Charmer Ablaze
 1,I:P Masquerena
 1,Knightmare Unicorn
