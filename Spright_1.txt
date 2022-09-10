@@ -1,0 +1,34 @@
+//Main Deck
+3,Spright Blue
+3,Spright Jet
+1,Spright Red
+1,Spright Carrot
+3,Spright Starter
+1,Spright Smashers
+3,Swap Frog
+1,Dupe Frog
+1,Ronintoadin
+3,Deep Sea Diva
+1,Night's End Sorcerer
+3,Infinite Impermanence
+3,Effect Veiler
+3,Ash Blossom & Joyous Spring
+2,Ghost Ogre & Snow Rabbit
+1,Ghost Belle & Haunted Mansion
+3,D.D. Crow
+3,Pot of Prosperity
+1,Called by the Grave
+//Extra Deck
+1,Toadally Awesome
+1,Sky Cavalry Centaurea
+1,Downerd Magician
+1,Divine Arsenal AA-ZEUS - Sky Thunder
+2,Gigantic Spright
+1,Salamangreat Almiraj
+1,Crystron Halqifibrax
+2,Spright Elf
+1,Formula Synchron
+1,Herald of the Arc Light
+1,Hiita the Fire Charmer Ablaze
+1,I:P Masquerena
+1,Knightmare Unicorn
